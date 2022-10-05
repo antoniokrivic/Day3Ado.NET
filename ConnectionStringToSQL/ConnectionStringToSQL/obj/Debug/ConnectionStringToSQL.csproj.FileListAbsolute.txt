@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\ConnectionStringToSQL\ConnectionStringToSQL\bin\Debug\ConnectionStringToSQL.exe.config
+C:\Users\student\source\repos\ConnectionStringToSQL\ConnectionStringToSQL\bin\Debug\ConnectionStringToSQL.exe
+C:\Users\student\source\repos\ConnectionStringToSQL\ConnectionStringToSQL\bin\Debug\ConnectionStringToSQL.pdb
+C:\Users\student\source\repos\ConnectionStringToSQL\ConnectionStringToSQL\obj\Debug\ConnectionStringToSQL.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConnectionStringToSQL\ConnectionStringToSQL\obj\Debug\ConnectionStringToSQL.exe
+C:\Users\student\source\repos\ConnectionStringToSQL\ConnectionStringToSQL\obj\Debug\ConnectionStringToSQL.pdb
